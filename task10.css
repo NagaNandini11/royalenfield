@@ -4,6 +4,8 @@
 	border-radius: 10px;
 }
 .heading img{
+	
+	
 	width: 10%;
 	height: 9%;
 	padding: 4px 4px 4px 4px;
@@ -16,7 +18,10 @@ body{
 	background-color: powderblue;
 }
 .heading {
+	
 			display: flex;
+	
+	
 			flex-direction: row;
 			flex-wrap: wrap;
 		}
